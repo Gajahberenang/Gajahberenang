@@ -1,48 +1,49 @@
-<!--
-  Replace every YOUR_USERNAME with your GitHub username (the repo must be named exactly the same).
-  Put snake.yml in .github/workflows/ so the snake image gets generated.
--->
-
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0f,60:3a0000,100:e10600&height=240&section=header&text=KRYZONIX&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Ferdinandus%20Ade%20Kristian&descSize=20&descAlignY=66&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0f,60:3a0000,100:e10600&height=200&section=header&text=KRYZONIX&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ade%40pitwall%3A~%24&descSize=20&descAlignY=68&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=E10600&center=true&vCenter=true&random=false&width=720&lines=Builds+and+repairs+PCs;Races+sims+until+the+lap+times+drop;Wires+up+ESP32+and+Arduino+gadgets;Jakarta,+Indonesia)](https://kryzonix.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=E10600&center=true&vCenter=true&random=false&width=720&lines=%24+whoami;ferdinandus+ade+kristian;%24+cat+now.txt;building+pcs%2C+racing+sims%2C+soldering+things;%24+_)](https://kryzonix.netlify.app)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kryzonix.netlify.app-E10600?style=for-the-badge&logo=netlify&logoColor=white)](https://kryzonix.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%40kristianpro-111111?style=for-the-badge&logo=instagram&logoColor=E10600)](https://instagram.com/kristianpro)
 
 </div>
 
----
+## ~/whoami
 
-## Driver card
+```console
+ade@pitwall:~$ whoami
+ferdinandus ade kristian (kryzonix)
 
+ade@pitwall:~$ cat about.txt
+base          jakarta, indonesia
+school        undergrad, tarakanita university
+day job       custom pc builds, repairs, thermal tuning
+night job     sim racing
+side quest    discord music bot that never goes offline
+status        open to builds, repairs and collabs
+
+ade@pitwall:~$ cat motto.txt
+# machines that run quiet and don't crash.
+# take it apart, find what's actually wrong, fix that.
 ```
-DRIVER        Ade Kristian (Kryzonix)
-BASE          Jakarta, Indonesia
-TEAM          Undergrad, Tarakanita University
-POWER UNIT    Custom PC builds, repairs, thermal tuning
-SIM RIG       Assetto Corsa, ACC, Le Mans Ultimate, Forza Horizon 6
-SIDE PROJECT  Discord music bot that never goes offline
-STATUS        Open to builds, repairs and collabs
+
+## ~/projects
+
+```console
+ade@pitwall:~$ ls -1 ~/projects
+discord-music-bot     node.js, discord.js, lavalink. queues, saved playlists, auto-reconnect
+pc-diagnostics        component-level troubleshooting, bios recovery, clean wiring
+esp32-controllers     arduino and esp32 monitors, custom peripherals, kicad pcb prototypes
+
+ade@pitwall:~$ cat pc-diagnostics/checklist.txt
+[x] cooling holds under stress test
+[x] psu has headroom
+[x] bios validated
+[x] cables routed clean
 ```
 
-I like machines that run quiet and don't crash. That goes for PCs on my bench and for the car in my sim at the end of a long stint. Most of what's below comes from one habit: take it apart, find what's actually wrong, fix that.
-
----
-
-## Sector times
-
-| Sector | What I did | Stack |
-| ------ | ---------- | ----- |
-| S1: hardware | Component-level troubleshooting, BIOS recovery, thermal work and clean wiring on custom builds | PSU planning, BIOS/UEFI, stress testing |
-| S2: software | A Discord music bot with queues, saved playlists and auto-reconnect that stays online around the clock | Node.js, discord.js, Lavalink |
-| S3: embedded | Arduino and ESP32 controllers for hardware monitoring and custom peripherals, including PCB prototypes and sensors | Arduino, ESP32, KiCad |
-
----
-
-## Garage
+## ~/stack
 
 ![skills](https://skillicons.dev/icons?i=js,nodejs,arduino,linux,windows,git,github,discord,netlify&perline=9)
 
@@ -53,51 +54,32 @@ I like machines that run quiet and don't crash. That goes for PCs on my bench an
 ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
----
+## ~/sim-rig
 
-## Contribution snake
+```console
+ade@pitwall:~$ ls ~/sim/games
+assetto-corsa/   assetto-corsa-competizione/   le-mans-ultimate/   forza-horizon-6/
 
-![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+ade@pitwall:~$ cat ~/sim/goal.txt
+lower lap times, test setups, repeat
+```
 
----
-
-## Telemetry
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0b0f&title_color=e10600&text_color=ffffff&icon_color=e10600&ring_color=e10600)](https://github.com/YOUR_USERNAME)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=0b0b0f&title_color=e10600&text_color=ffffff)](https://github.com/YOUR_USERNAME)
-
-[![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0b0b0f&ring=e10600&fire=e10600&currStreakNum=ffffff&currStreakLabel=e10600&sideNums=ffffff&sideLabels=8a8a93&dates=8a8a93)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## Lap chart
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b0b0f&color=ffffff&line=e10600&point=ffffff&area=true&area_color=e10600&hide_border=true&radius=8)](https://github.com/YOUR_USERNAME)
-
----
-
-## Trophy cabinet
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Radio
+## ~/fortune
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
----
+## ~/contact
 
-If you need a PC built, a laptop brought back to life, or someone to test a sim setup with, the portfolio is the fastest way to reach me.
+```console
+ade@pitwall:~$ cat contact.txt
+portfolio     https://kryzonix.netlify.app
+instagram     @kristianpro
+
+ade@pitwall:~$ _
+```
 
 <div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=e10600&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,60:3a0000,100:e10600&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,60:3a0000,100:e10600&height=100&section=footer)
 
 </div>
